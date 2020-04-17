@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DiceRoller</string>
+    <string name="button_text">ROLL</string>
+    <string name="count_up_button_text">Count Up</string>
+    <string name="button_reset">Reset</string>
+    <string name="ResultText">rsullt</string>
+</resources>
